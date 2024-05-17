@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44381142098",
+    "project_id": "fishlast",
+    "storage_bucket": "fishlast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44381142098:android:b5cf515a4c254643e7f38b",
+        "android_client_info": {
+          "package_name": "com.example.fishguidepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00dcJfqNVWYezA2E3bU6pi0EFmROVGSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

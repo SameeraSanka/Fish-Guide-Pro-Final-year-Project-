@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fish Guide Pro</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="enter_your_email_now">Enter your Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already Have an account ?</string>
+    <string name="take_iamge">Take Iamge</string>
+    <string name="fish_name_is">Fish name is :</string>
+    <string name="confidences">confidences : </string>
+    <string name="gallery">Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scientific_name">Scientific Name : </string>
+    <string name="dawkinsia_singhala">Dawkinsia singhala</string>
+    <string name="other_names">Other Names :</string>
+    <string name="filamented_bard">Filamented Bard</string>
+    <string name="dangkola_petiya">Dangkola Petiya</string>
+    <string name="name_in_sinhala">This fish known by the scientific name Dawkinsia singhala is also known as Sri lanka Filamented Bard. It is also a fish of the family Cyprinidae and shows a body growth of about 7-8cm and is found in Yakwella, Ging Ganga basin, and wet, dry and intermediate zones. A large amount is also reported from Galle Matara and Kaluthera areas. It is also found in slow-flowing lakes or canals from fast-flowing rivers. It also lives in flocks of only 1 meter deep water. Algae and animal carcasses are taken as food.</string>
+    <string name="bulthhapaya">Called Black ruby barb in English. And the scientific name is given as Pethia nigrofasciata. As mentioned so far, it can live in the water while the pH range of the water is between 6.0 - 6.5. Not only that, they prefer water in the dH range of 5-12. At the same time, these fish prefer to live in tropical conditions with temperatures between 22°C and 26°C. It is also very common in the canals from Kelani to Nilwala Basin in Sri Lanka and is also found in mountainous areas. It is also easy to see in streams with clear cool shade. Eggs are laid in shallow water. And the maximum length is 6.0 cm - 6.7 cm. Feeds on algae and detritus.</string>
+    <string name="galpadiya">The scientific name of this fish is Garra ceylonensis and also known as Stone sucker. It is reported from humid, dry and intermediate zones. The pH range of water is considered to be 6.5 - 7.0 and the dH range is between 12 - 15. Prefers tropical conditions between 24°C - 26°C. An increase in the length of the body from 8 cm to 15 cm can be seen. Feeds mainly on algae.</string>
+    <string name="kawaiya">Scientifically known as Anabas testudineus, this fish is also known as Climbing perch. Grows to about 12.5 cm long. Prefers tropical conditions between 22 ° C - 30 ° C. It can also be seen nearer canals and swamps. Also, this fish can tolerate adverse water conditions and hides under the mud during dry seasons.</string>
+    <string name="thalkossa">The scientific name of this fish is Belontia signata and also known as Combtail. is an endemic fish in Sri Lanka and is under threat of extinction. Around 10cm -18cm there is a big increase. Found in slow flowing water with pebbles and gravel. Feeds on small aquatic animals and decaying organic matter in water. In just two days, the eggs hatch and hatch. Prefers tropical conditions between 24°C - 28°C.</string>
+</resources>
